@@ -29,6 +29,8 @@
 
 ### About Me
 I'm a data analyst with a passion for turning data into actionable insights. My expertise includes a variety of data analysis tools and platforms.
+* AWS Cloud Practitioner [AWS Badge](https://www.credly.com/badges/247b3d2b-d413-4b51-bd95-4d9691b91af2/public_url)
+* Google Data Analyst [Google Data Analyst Badge](https://www.credly.com/badges/5bf94a19-f26a-4807-ac2a-b460bca4e4eb/public_url)
 
 ### Skills
 - **SQL**: Proficient in writing complex queries to extract, manipulate, and analyze data.
