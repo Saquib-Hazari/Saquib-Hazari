@@ -63,9 +63,9 @@ Here are some of the projects I've worked on:
      - Improved data availability and reliability.
 
 ### Contact Me
-- **Email**: [your.email@example.com](saquibhazari1000@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/saquib-hazari)
-- **Twitter**: [Your Twitter Handle]([https://twitter.com/your-handle](https://x.com/saquib7298))
+- **Email**: [Gmail](saquibhazari1000@gmail.com)
+- **LinkedIn**: [LinkedIn](www.linkedin.com/in/saquib-hazari)
+- **Twitter**: [Twitter](https://twitter.com/your-handle](https://x.com/saquib7298))
 
 ### Let's Connect!
 I'm always interested in collaborating on new projects and learning about innovative data solutions. Feel free to reach out if you'd like to connect!
