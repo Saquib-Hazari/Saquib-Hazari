@@ -4,16 +4,6 @@
   <img src="https://profile-counter.glitch.me/Saquib-Hazari/count.svg?"  />
 </div>
 
-###
-
-
-
-###
-
-
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/saquib7298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saquib7298" height="30" width="40" /></a>
@@ -36,30 +26,6 @@ I'm a data analyst with a passion for turning data into actionable insights. My 
 - **Tableau**: Skilled in creating interactive dashboards and visualizations.
 - **Excel**: Expert in data analysis, pivot tables, and advanced formulas.
 - **Google Sheets**: Experienced in collaborative data analysis and automation using Google Sheets.
-
-### Projects
-Here are some of the projects I've worked on:
-
-1. **Cyclistic Bike-Share Analysis**
-   - **Description**: Analyzed the differences in bike usage between casual riders and annual members.
-   - **Tools Used**: SQL, PostgreSQL, Tableau, Excel
-   - **Highlights**:
-     - Identified trends and patterns in rider behavior.
-     - Developed insights to inform marketing strategies for increasing annual memberships.
-
-2. **Sales Data Dashboard**
-   - **Description**: Created an interactive sales dashboard to track key performance indicators.
-   - **Tools Used**: SQL, Tableau
-   - **Highlights**:
-     - Visualized sales trends over time.
-     - Enabled stakeholders to make data-driven decisions.
-
-3. **AWS Data Pipeline**
-   - **Description**: Developed an automated data pipeline using AWS services.
-   - **Tools Used**: AWS (S3, Lambda, RDS), SQL
-   - **Highlights**:
-     - Streamlined data ingestion and processing.
-     - Improved data availability and reliability.
 
 ### Contact Me
 - **Email**: [Gmail](saquibhazari1000@gmail.com)
