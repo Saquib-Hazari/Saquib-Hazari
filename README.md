@@ -20,6 +20,7 @@ I'm a data analyst with a passion for turning data into actionable insights. My 
 * Google Data Analyst [Google Data Analyst Badge](https://www.credly.com/badges/5bf94a19-f26a-4807-ac2a-b460bca4e4eb/public_url)
 
 ### Skills
+- **Python**: Proficient in writing complex code in python to extract with plotting using libraries like Pandas, NumPy, Matplotlib, Seaborn ,Plotly etc.
 - **SQL**: Proficient in writing complex queries to extract, manipulate, and analyze data.
 - **PostgreSQL**: Experienced in using PostgreSQL for relational database management.
 - **AWS**: Knowledgeable in using AWS for cloud computing and data storage solutions.
