@@ -29,9 +29,9 @@ I'm a data analyst with a passion for turning data into actionable insights. My 
 - **Google Sheets**: Experienced in collaborative data analysis and automation using Google Sheets.
 
 ### Contact Me
-- **Email**: [Gmail](saquibhazari1000@gmail.com)
-- **LinkedIn**: [LinkedIn](www.linkedin.com/in/saquib-hazari)
-- **Twitter**: [Twitter](https://twitter.com/your-handle](https://x.com/saquib7298))
+-  [Gmail](saquibhazari1000@gmail.com)
+-  [LinkedIn](www.linkedin.com/in/saquib-hazari)
+-  [Twitter](https://twitter.com/your-handle](https://x.com/saquib7298))
 
 ### Let's Connect!
 I'm always interested in collaborating on new projects and learning about innovative data solutions. Feel free to reach out if you'd like to connect!
