@@ -24,9 +24,10 @@ I'm a data analyst with a passion for turning data into actionable insights. My 
 - **SQL**: Proficient in writing complex queries to extract, manipulate, and analyze data.
 - **PostgreSQL**: Experienced in using PostgreSQL for relational database management.
 - **AWS**: Knowledgeable in using AWS for cloud computing and data storage solutions.
-- **Tableau**: Skilled in creating interactive dashboards and visualizations.
-- **Excel**: Expert in data analysis, pivot tables, and advanced formulas.
+- **Power BI**: Skilled in creating interactive dashboards and visualizations.
+- **Micorsoft Excel**: Expert in data analysis, pivot tables, and advanced formulas.
 - **Google Sheets**: Experienced in collaborative data analysis and automation using Google Sheets.
+- **Machine Learning Model**: Training and testing different Machine Learning Models using Regression and Classifications.
 
 ### Contact Me
 -  [Gmail](saquibhazari1000@gmail.com)
